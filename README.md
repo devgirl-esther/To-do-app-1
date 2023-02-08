@@ -15,11 +15,8 @@ You are to create a Todo application using HTML, CSS and Vanilla JavaScript.
 
 4.Users should be able to search for todos.
 
-5.When you are done, host your application on heroku or netlify (Link should be added to your turned in field on Teams)
+
 
 [to-do-app](https://devgirl-todoapp-77e9c6.netlify.app)
 
 
-### Sample Screenshot(Design the way you want it, this is just a sample)
-
-![Screenshot 2022-06-30 at 00 56 40](https://user-images.githubusercontent.com/60100544/176565419-ce227836-6536-47aa-9d04-92bb4fc5928a.png)
