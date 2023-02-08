@@ -1,6 +1,6 @@
 
 
-You are to create a Todo application using HTML, CSS and Vanilla JavaScript. 
+Create a Todo application using HTML, CSS and Vanilla JavaScript. 
 
 ### Requirements 
 
